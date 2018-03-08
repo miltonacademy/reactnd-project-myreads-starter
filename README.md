@@ -8,7 +8,7 @@ This application requires a number of dependencies which are specified in the pa
 
 npm install
 
-#Running the Application
+# Running the Application
 
 After installation of the necessary dependencies, the application can be launched by running this terminal command on the root directory:
 
